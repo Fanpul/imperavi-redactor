@@ -1,0 +1,10 @@
+{
+  "name": "imperavi-redactor",
+  "version": "1.0.0",
+  "description": "WYSIWYG html editor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fanpul",
+  "license": "MIT"
+}
